@@ -1,4 +1,5 @@
 # EC4308 - Forecasting the Equity Risk Premium (ERP) for Environmental, Social and Governance (ESG) ETFs
+Project Dates: October 2022 - November 2022
 ## Disclaimer
 This GitHub repository showcases a collaborative group project, where I have undertaken a substantial share of the Python coding work. From data processing to model training and building, as well as ensemble learning, all these Python codes are exclusively my creation. These codes can be understood independently and do not require additional context to be comprehended. However, please note that the R codes used for data extraction and cleaning have not been included in this repository.
 
